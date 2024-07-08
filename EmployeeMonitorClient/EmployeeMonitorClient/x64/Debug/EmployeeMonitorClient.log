@@ -1,0 +1,3 @@
+﻿  EmployeeMonitorClient.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(4672,18): warning C4244: =: преобразование "const wchar_t" в "char", возможна потеря данных
+  EmployeeMonitorClient.vcxproj -> F:\Работа\EmployeeMonitorClient\x64\Debug\EmployeeMonitorClient.exe
